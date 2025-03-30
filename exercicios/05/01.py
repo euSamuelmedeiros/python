@@ -45,6 +45,11 @@ print('------------')"""
 
 #010 desafio
 
+r = float(input('quanto dinheiro voce tem na sua carteira?'))
+d = r / 6.50
+print('Com R${} vc pode comprar U${:.2f}'.format(r, d))
+
+
 
 
 
