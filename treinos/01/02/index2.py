@@ -9,10 +9,12 @@ elif op == '-':
 elif op == '*':
         res = n1 * n2
 if n2 != 0:
-            print('Erro divisao por zero.')
+     res = n1 / n2
 else:
-            print('Erro, operação invalida.')
-print('o resultado sentre {} e {} é igual a {}'.format(n1, n2, res))
+     res = 'erro, divisão por zero'
+else:
+res = 'Erro, operação por zero'
+         
 
 
 n1 = float(input('number 1: '))
