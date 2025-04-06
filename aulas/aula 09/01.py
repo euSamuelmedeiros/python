@@ -12,10 +12,10 @@ print('curso' in frase)
 #replace --> trocar vai trocar a frase selecionada
 print(frase.replace('python', 'android'))
 
- # title --> ira analizae quantas palavras tem na string e deixar cada letra de cada palavra em maiuscula
+ # title --> ira analizar quantas palavras tem na string e deixar cada letra de cada palavra em maiuscula
 print(frase.title())
 
-# frase.strip --> irá remover todos os espaços inuteis da sa string
+# frase.strip --> irá remover todos os espaços inuteis da string
 print(frase.strip())
 
 #divisao
