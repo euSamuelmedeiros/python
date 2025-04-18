@@ -7,3 +7,5 @@ id = at - na
 print('quem nasceu em {} tem {} anos em {}'.format(na, id, at))
 if id == 18:
     print('vc tem que se alistar IMEDIATAMENTW')
+
+    #incompleto
